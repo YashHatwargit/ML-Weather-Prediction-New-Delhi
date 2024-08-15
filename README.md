@@ -1,5 +1,5 @@
 # ML-Weather-Prediction-New-Delhi 
-**Machine Learning Project on Weather Prediction for New Delhi**  
+### Machine Learning Project on Weather Prediction for New Delhi using Python.  
 ###  Data Collection & Cleaning:
  Collected weather data from NOAA and cleaned it using Python (**Pandas, NumPy**). Managed missing data and prepared it for analysis.
 ###  Data Visualization:
