@@ -3,7 +3,8 @@ Machine Learning Project on Weather Prediction of New Delhi.
 
 ## Weather Prediction for New Delhi Using Historical Data:  
 - Downloaded and preprocessed NOAA weather data using Python **(Pandas, NumPy)**.  
-- Performed data cleaning, feature engineering, and handled missing values.   
+- Performed data cleaning, feature engineering, and handled missing values.
+- Visualized data trends with **Matplotlib** and **Plotly**.
 - Implemented and evaluated **ridge regression models** with backtesting, achieving a mean absolute error of 2.25°F.  
 - Enhanced model accuracy using rolling averages and exponential means.
   ## Images 
